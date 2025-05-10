@@ -1,7 +1,7 @@
 ---
 name: Daily-Scrum-Template
 about: 데일리 스크럼 템플릿
-title: ''
+title: '[Daily Scrum] 2025XXXX(X)'
 labels: Daily-Scrum
 assignees: ''
 
