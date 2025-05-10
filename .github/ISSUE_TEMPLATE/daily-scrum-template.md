@@ -1,9 +1,9 @@
 ---
 name: Daily-Scrum-Template
 about: 데일리 스크럼 템플릿
-title: '[Daily Scrum] 2025XXXX(X)'
+title: '[Daily Scrum] 2025'
 labels: Daily-Scrum
-assignees: ''
+assignees: '@taek105, @jieunyy, @khonetgithub, @MorningNembi, @sujin9393, @jinaaaaaaaaaaaaa'
 
 ---
 
